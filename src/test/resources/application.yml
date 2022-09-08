@@ -1,0 +1,7 @@
+my.properties:
+  foo:
+    name: Foo
+    value: 15
+  bar:
+    name: Baz
+    value: 50
